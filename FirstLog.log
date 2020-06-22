@@ -1,0 +1,538 @@
+2020-09-21 18:09:48.327 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-09-21 18:09:48.447 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-09-21 18:09:48.780 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 14424 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2)
+2020-09-21 18:09:48.782 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-09-21 18:09:48.785 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-09-21 18:09:50.678 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.218 seconds (JVM running for 3.712)
+2020-09-21 18:09:57.356 [http-nio-8080-exec-1] INFO  com.example.demo.controller.PublicRestApiController - test2 - Harshesh
+2020-17-21 19:17:45.851 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-17-21 19:17:45.951 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-17-21 19:17:46.235 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 12892 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2)
+2020-17-21 19:17:46.235 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-17-21 19:17:46.235 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-17-21 19:17:48.076 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.116 seconds (JVM running for 3.682)
+2020-17-21 19:17:58.252 [http-nio-8080-exec-1] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-49-21 19:49:08.678 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-49-21 19:49:08.863 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-49-21 19:49:09.336 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 7988 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2)
+2020-49-21 19:49:09.344 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-49-21 19:49:09.347 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-49-21 19:49:11.342 [restartedMain] ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in com.example.demo.controller.PublicRestApiController required a bean of type 'com.example.demo.service.KafkaProducer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.example.demo.service.KafkaProducer' in your configuration.
+
+2020-50-21 19:50:55.105 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-50-21 19:50:55.282 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-50-21 19:50:55.660 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 11000 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2)
+2020-50-21 19:50:55.660 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-50-21 19:50:55.660 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-50-21 19:50:57.937 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.639 seconds (JVM running for 4.255)
+2020-51-21 19:51:06.067 [http-nio-8080-exec-2] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-51-21 19:51:06.068 [http-nio-8080-exec-2] INFO  com.example.demo.service.KafkaProducer - #### -> Producing message -> API test1 - Harshesh
+2020-51-21 19:51:41.939 [http-nio-8080-exec-4] INFO  com.example.demo.controller.PublicRestApiController - test2 - Harshesh
+2020-51-21 19:51:41.950 [http-nio-8080-exec-4] INFO  com.example.demo.service.KafkaProducer - #### -> Producing message -> API test2 - Harshesh
+2020-08-21 20:08:39.609 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-11-21 20:11:51.545 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-11-21 20:11:51.694 [kafka-producer-network-thread | producer-1] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-1] Cluster ID: HB4CmpNVQZKFvdZJXg3BXw
+2020-11-21 20:11:51.725 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-11-21 20:11:52.006 [restartedMain] INFO  org.apache.kafka.clients.producer.ProducerConfig - ProducerConfig values: 
+	acks = 1
+	batch.size = 0
+	bootstrap.servers = [192.168.86.229:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = default
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = https
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+
+2020-11-21 20:11:52.022 [restartedMain] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka version: 2.3.1
+2020-11-21 20:11:52.022 [restartedMain] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka commitId: 18a913733fb71c01
+2020-11-21 20:11:52.022 [restartedMain] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1590088312022
+2020-11-21 20:11:52.131 [kafka-producer-network-thread | producer-2] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-2] Cluster ID: HB4CmpNVQZKFvdZJXg3BXw
+2020-11-21 20:11:52.163 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 6636 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2)
+2020-11-21 20:11:52.170 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-11-21 20:11:52.171 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-11-21 20:11:54.722 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.983 seconds (JVM running for 5.31)
+2020-12-21 20:12:10.314 [http-nio-8080-exec-1] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-12-21 20:12:10.315 [http-nio-8080-exec-1] INFO  com.example.demo.service.KafkaProducer - #### -> Producing message -> API test1 - Harshesh
+2020-12-21 20:12:10.333 [http-nio-8080-exec-1] INFO  org.apache.kafka.clients.producer.ProducerConfig - ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [192.168.86.229:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = default
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = https
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2020-12-21 20:12:10.350 [http-nio-8080-exec-1] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka version: 2.3.1
+2020-12-21 20:12:10.352 [http-nio-8080-exec-1] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka commitId: 18a913733fb71c01
+2020-12-21 20:12:10.354 [http-nio-8080-exec-1] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1590088330350
+2020-12-21 20:12:10.372 [kafka-producer-network-thread | producer-3] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-3] Cluster ID: HB4CmpNVQZKFvdZJXg3BXw
+2020-18-21 20:18:14.138 [Thread-5] INFO  org.apache.kafka.clients.producer.KafkaProducer - [Producer clientId=producer-3] Closing the Kafka producer with timeoutMillis = 30000 ms.
+2020-18-21 20:18:15.125 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-18-21 20:18:15.331 [restartedMain] INFO  org.apache.kafka.clients.producer.ProducerConfig - ProducerConfig values: 
+	acks = 1
+	batch.size = 0
+	bootstrap.servers = [192.168.86.229:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = default
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = https
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+
+2020-18-21 20:18:15.351 [restartedMain] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka version: 2.3.1
+2020-18-21 20:18:15.353 [restartedMain] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka commitId: 18a913733fb71c01
+2020-18-21 20:18:15.356 [restartedMain] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1590088695351
+2020-18-21 20:18:15.389 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 6636 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2)
+2020-18-21 20:18:15.390 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-18-21 20:18:15.391 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-18-21 20:18:15.449 [kafka-producer-network-thread | producer-4] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-4] Cluster ID: HB4CmpNVQZKFvdZJXg3BXw
+2020-18-21 20:18:17.630 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.472 seconds (JVM running for 388.219)
+2020-19-21 20:19:10.231 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-19-21 20:19:10.516 [kafka-producer-network-thread | producer-1] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-1] Cluster ID: HB4CmpNVQZKFvdZJXg3BXw
+2020-19-21 20:19:10.580 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-19-21 20:19:11.068 [restartedMain] INFO  org.apache.kafka.clients.producer.ProducerConfig - ProducerConfig values: 
+	acks = 1
+	batch.size = 0
+	bootstrap.servers = [192.168.86.229:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = default
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = https
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+
+2020-19-21 20:19:11.078 [restartedMain] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka version: 2.3.1
+2020-19-21 20:19:11.085 [restartedMain] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka commitId: 18a913733fb71c01
+2020-19-21 20:19:11.085 [restartedMain] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1590088751078
+2020-19-21 20:19:11.184 [kafka-producer-network-thread | producer-2] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-2] Cluster ID: HB4CmpNVQZKFvdZJXg3BXw
+2020-19-21 20:19:11.258 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 13976 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv2)
+2020-19-21 20:19:11.263 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-19-21 20:19:11.264 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-19-21 20:19:14.160 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 3.567 seconds (JVM running for 6.762)
+2020-19-21 20:19:32.179 [http-nio-8080-exec-1] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-19-21 20:19:32.179 [http-nio-8080-exec-1] INFO  com.example.demo.service.KafkaProducer - #### -> Producing message -> API test1 - Harshesh
+2020-19-21 20:19:32.182 [http-nio-8080-exec-1] INFO  org.apache.kafka.clients.producer.ProducerConfig - ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [192.168.86.229:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = default
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = https
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2020-19-21 20:19:32.205 [http-nio-8080-exec-1] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka version: 2.3.1
+2020-19-21 20:19:32.207 [http-nio-8080-exec-1] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka commitId: 18a913733fb71c01
+2020-19-21 20:19:32.209 [http-nio-8080-exec-1] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1590088772205
+2020-19-21 20:19:32.257 [kafka-producer-network-thread | producer-3] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-3] Cluster ID: HB4CmpNVQZKFvdZJXg3BXw
+2020-19-21 20:19:39.315 [RMI TCP Connection(3)-127.0.0.1] INFO  org.apache.kafka.clients.producer.KafkaProducer - [Producer clientId=producer-3] Closing the Kafka producer with timeoutMillis = 30000 ms.
+2020-22-21 20:22:00.875 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-22-21 20:22:01.110 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-22-21 20:22:01.644 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 7252 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3)
+2020-22-21 20:22:01.644 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-22-21 20:22:01.644 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-22-21 20:22:04.148 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 3.034 seconds (JVM running for 5.71)
+2020-22-21 20:22:42.830 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-22-21 20:22:42.987 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-22-21 20:22:43.350 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 7680 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3)
+2020-22-21 20:22:43.350 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-22-21 20:22:43.350 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-22-21 20:22:45.771 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.784 seconds (JVM running for 5.141)
+2020-53-22 08:53:08.674 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-53-22 08:53:08.876 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-53-22 08:53:09.268 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 15956 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3)
+2020-53-22 08:53:09.271 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-53-22 08:53:09.272 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-53-22 08:53:11.604 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.72 seconds (JVM running for 5.044)
+2020-53-22 08:53:31.032 [http-nio-8080-exec-1] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-53-22 08:53:31.032 [http-nio-8080-exec-1] INFO  com.example.demo.service.KafkaProducer - #### -> Producing message -> API test1 - Harshesh
+2020-53-22 08:53:34.975 [http-nio-8080-exec-2] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-53-22 08:53:34.976 [http-nio-8080-exec-2] INFO  com.example.demo.service.KafkaProducer - #### -> Producing message -> API test1 - Harshesh
+2020-54-22 08:54:31.055 [http-nio-8080-exec-1] ERROR org.springframework.kafka.support.LoggingProducerListener - Exception thrown when sending a message with key='null' and payload='API test1 - Harshesh' to topic KafkaDemo1:
+org.apache.kafka.common.errors.TimeoutException: Topic KafkaDemo1 not present in metadata after 60000 ms.
+2020-54-22 08:54:34.978 [http-nio-8080-exec-2] ERROR org.springframework.kafka.support.LoggingProducerListener - Exception thrown when sending a message with key='null' and payload='API test1 - Harshesh' to topic KafkaDemo1:
+org.apache.kafka.common.errors.TimeoutException: Topic KafkaDemo1 not present in metadata after 60000 ms.
+2020-56-22 08:56:15.618 [http-nio-8080-exec-5] INFO  com.example.demo.controller.PublicRestApiController - test2 - Harshesh
+2020-56-22 08:56:15.619 [http-nio-8080-exec-5] INFO  com.example.demo.service.KafkaProducer - #### -> Producing message -> API test2 - Harshesh
+2020-56-22 08:56:19.622 [http-nio-8080-exec-7] INFO  com.example.demo.controller.PublicRestApiController - test2 - Harshesh
+2020-56-22 08:56:19.622 [http-nio-8080-exec-7] INFO  com.example.demo.service.KafkaProducer - #### -> Producing message -> API test2 - Harshesh
+2020-57-22 08:57:15.620 [http-nio-8080-exec-5] ERROR org.springframework.kafka.support.LoggingProducerListener - Exception thrown when sending a message with key='null' and payload='API test2 - Harshesh' to topic KafkaDemo1:
+org.apache.kafka.common.errors.TimeoutException: Topic KafkaDemo1 not present in metadata after 60000 ms.
+2020-57-22 08:57:19.623 [http-nio-8080-exec-7] ERROR org.springframework.kafka.support.LoggingProducerListener - Exception thrown when sending a message with key='null' and payload='API test2 - Harshesh' to topic KafkaDemo1:
+org.apache.kafka.common.errors.TimeoutException: Topic KafkaDemo1 not present in metadata after 60000 ms.
+2020-58-22 08:58:14.586 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-58-22 08:58:14.750 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-58-22 08:58:15.159 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 11948 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3)
+2020-58-22 08:58:15.163 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-58-22 08:58:15.164 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-58-22 08:58:17.374 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.615 seconds (JVM running for 4.934)
+2020-58-22 08:58:24.900 [http-nio-8080-exec-1] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-58-22 08:58:24.901 [http-nio-8080-exec-1] INFO  com.example.demo.service.KafkaProducer - #### -> Producing message -> API test1 - Harshesh
+2020-59-22 08:59:54.180 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-59-22 08:59:54.347 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-59-22 08:59:54.653 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 3224 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3)
+2020-59-22 08:59:54.656 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-59-22 08:59:54.657 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-59-22 08:59:56.669 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.311 seconds (JVM running for 4.354)
+2020-00-22 09:00:02.863 [http-nio-8080-exec-1] INFO  com.example.demo.controller.PublicRestApiController - test2 - Harshesh
+2020-00-22 09:00:46.785 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-00-22 09:00:46.842 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 3224 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3)
+2020-00-22 09:00:46.843 [restartedMain] DEBUG com.example.demo.SpringApIsv2Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-00-22 09:00:46.843 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-00-22 09:00:47.122 [restartedMain] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$38bcff6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-00-22 09:00:47.164 [restartedMain] INFO  org.springframework.ws.soap.addressing.server.AnnotationActionEndpointMapping - Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-00-22 09:00:47.217 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-00-22 09:00:47.270 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 425 ms
+2020-00-22 09:00:47.389 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-00-22 09:00:47.473 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-00-22 09:00:47.479 [restartedMain] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-00-22 09:00:47.505 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-00-22 09:00:47.511 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 0.72 seconds (JVM running for 55.196)
+2020-00-22 09:00:47.514 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-01-22 09:01:12.952 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-01-22 09:01:12.960 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-01-22 09:01:12.968 [http-nio-8080-exec-1] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-01-22 09:01:21.854 [http-nio-8080-exec-4] INFO  com.example.demo.controller.PublicRestApiController - test2 - Harshesh
+2020-02-22 09:02:55.805 [Thread-8] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-22 09:02:56.201 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-02-22 09:02:56.251 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 3224 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3)
+2020-02-22 09:02:56.267 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-02-22 09:02:56.533 [restartedMain] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$38bcff6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-22 09:02:56.538 [restartedMain] INFO  org.springframework.ws.soap.addressing.server.AnnotationActionEndpointMapping - Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-02-22 09:02:56.572 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-22 09:02:56.597 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 319 ms
+2020-02-22 09:02:56.740 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-22 09:02:56.853 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-02-22 09:02:56.861 [restartedMain] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-02-22 09:02:56.884 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-22 09:02:56.888 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 0.682 seconds (JVM running for 184.573)
+2020-02-22 09:02:56.897 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-03-22 09:03:02.467 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-03-22 09:03:02.475 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-03-22 09:03:02.482 [http-nio-8080-exec-2] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-03-22 09:03:42.467 [RMI TCP Connection(3)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-03-22 09:03:42.472 [RMI TCP Connection(3)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-32-22 09:32:27.817 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-32-22 09:32:28.168 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-32-22 09:32:28.651 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 9336 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3)
+2020-32-22 09:32:28.679 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-32-22 09:32:28.745 [restartedMain] INFO  org.springframework.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\Harshesh\.m2\repository\org\glassfish\hk2\hk2\2.6.1\hk2-2.6.1.jar referenced one or more files that do not exist: file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/hk2-utils.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/jakarta.annotation-api.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/jakarta.inject.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/hk2-api.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/aopalliance-repackaged.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/hk2-core.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/hk2-locator.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/javassist.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/hk2-runlevel.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/class-model.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/asm.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/asm-analysis.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/asm-commons.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/asm-tree.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/asm-util.jar
+2020-32-22 09:32:28.749 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-32-22 09:32:28.756 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-32-22 09:32:29.809 [restartedMain] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$13b8978] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-32-22 09:32:29.852 [restartedMain] INFO  org.springframework.ws.soap.addressing.server.AnnotationActionEndpointMapping - Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-32-22 09:32:30.154 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-32-22 09:32:30.259 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1500 ms
+2020-32-22 09:32:30.621 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-32-22 09:32:30.899 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-32-22 09:32:30.906 [restartedMain] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-32-22 09:32:30.955 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-32-22 09:32:30.963 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.776 seconds (JVM running for 5.35)
+2020-32-22 09:32:31.801 [RMI TCP Connection(1)-127.0.0.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-32-22 09:32:31.812 [RMI TCP Connection(1)-127.0.0.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-33-22 09:33:04.272 [http-nio-8080-exec-1] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-34-22 09:34:20.500 [RMI TCP Connection(3)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-34-22 09:34:20.512 [RMI TCP Connection(3)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-26-22 15:26:09.786 [main] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-26-22 15:26:10.751 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Start the Spring Boot Application - Harshesh
+2020-26-22 15:26:11.154 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Starting SpringApIsv2Application on DESKTOP-06092015 with PID 14828 (C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3\target\classes started by Harshesh in C:\Users\Harshesh\Documents\STS_Workspace_4\SpringAPIsv3)
+2020-26-22 15:26:11.193 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - No active profile set, falling back to default profiles: default
+2020-26-22 15:26:11.248 [restartedMain] INFO  org.springframework.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\Harshesh\.m2\repository\org\glassfish\hk2\hk2\2.6.1\hk2-2.6.1.jar referenced one or more files that do not exist: file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/hk2-utils.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/jakarta.annotation-api.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/jakarta.inject.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/hk2-api.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/aopalliance-repackaged.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/hk2-core.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/hk2-locator.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/javassist.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/hk2-runlevel.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/class-model.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/asm.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/asm-analysis.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/asm-commons.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/asm-tree.jar,file:/C:/Users/Harshesh/.m2/repository/org/glassfish/hk2/hk2/2.6.1/asm-util.jar
+2020-26-22 15:26:11.257 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-26-22 15:26:11.263 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-26-22 15:26:12.314 [restartedMain] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$8902dc1b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-26-22 15:26:12.357 [restartedMain] INFO  org.springframework.ws.soap.addressing.server.AnnotationActionEndpointMapping - Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-26-22 15:26:12.673 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-26-22 15:26:12.829 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1560 ms
+2020-26-22 15:26:13.158 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-26-22 15:26:13.400 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-26-22 15:26:13.411 [restartedMain] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-26-22 15:26:13.464 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-26-22 15:26:13.475 [restartedMain] INFO  com.example.demo.SpringApIsv2Application - Started SpringApIsv2Application in 2.703 seconds (JVM running for 5.483)
+2020-26-22 15:26:30.631 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-26-22 15:26:30.646 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-26-22 15:26:30.671 [http-nio-8080-exec-1] INFO  com.example.demo.controller.PublicRestApiController - test1 - Harshesh
+2020-27-22 15:27:43.939 [http-nio-8080-exec-4] INFO  com.example.demo.controller.PublicRestApiController - test2 - Harshesh
+2020-28-22 15:28:09.234 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

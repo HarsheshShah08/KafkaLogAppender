@@ -1,0 +1,1 @@
+This is rest API with log4j-kafka-appender
